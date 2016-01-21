@@ -1,0 +1,12 @@
+D:\DSOD\Fall 2014\Project\Samples\Solar_Energy_Service\Solar_Energy_Service\obj\Debug\Solar_Energy_Service.csprojResolveAssemblyReference.cache
+D:\DSOD\Fall 2014\Project\Samples\Solar_Energy_Service\Solar_Energy_Service\bin\Solar_Energy_Service.dll.config
+D:\DSOD\Fall 2014\Project\Samples\Solar_Energy_Service\Solar_Energy_Service\bin\Solar_Energy_Service.dll
+D:\DSOD\Fall 2014\Project\Samples\Solar_Energy_Service\Solar_Energy_Service\bin\Solar_Energy_Service.pdb
+D:\DSOD\Fall 2014\Project\Samples\Solar_Energy_Service\Solar_Energy_Service\obj\Debug\Solar_Energy_Service.dll
+D:\DSOD\Fall 2014\Project\Samples\Solar_Energy_Service\Solar_Energy_Service\obj\Debug\Solar_Energy_Service.pdb
+D:\DSOD\Fall 2014\Assignments\Assignment 3\Assignment3-3-1\Solar_Energy_Service\Solar_Energy_Service\bin\Solar_Energy_Service.dll.config
+D:\DSOD\Fall 2014\Assignments\Assignment 3\Assignment3-3-1\Solar_Energy_Service\Solar_Energy_Service\bin\Solar_Energy_Service.dll
+D:\DSOD\Fall 2014\Assignments\Assignment 3\Assignment3-3-1\Solar_Energy_Service\Solar_Energy_Service\bin\Solar_Energy_Service.pdb
+D:\DSOD\Fall 2014\Assignments\Assignment 3\Assignment3-3-1\Solar_Energy_Service\Solar_Energy_Service\obj\Debug\Solar_Energy_Service.csprojResolveAssemblyReference.cache
+D:\DSOD\Fall 2014\Assignments\Assignment 3\Assignment3-3-1\Solar_Energy_Service\Solar_Energy_Service\obj\Debug\Solar_Energy_Service.dll
+D:\DSOD\Fall 2014\Assignments\Assignment 3\Assignment3-3-1\Solar_Energy_Service\Solar_Energy_Service\obj\Debug\Solar_Energy_Service.pdb

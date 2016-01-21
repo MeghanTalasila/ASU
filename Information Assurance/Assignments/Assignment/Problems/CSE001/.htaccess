@@ -1,0 +1,5 @@
+AuthUserFile /afs/asu.edu/users/m/t/a/mtalasil/www/.htpasswd
+AuthGroupFile /afs/asu.edu/users/m/t/a/mtalasil/www/.htgroup
+AuthName "Please enter your ID and password"
+AuthType Basic
+require group CSE001 A Manager

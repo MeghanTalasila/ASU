@@ -1,0 +1,7 @@
+D:\DSOD\Fall 2014\Assignments\Assignment 3\Assignment3-2\weatherForecastService\weatherForecastService\bin\weatherForecastService.dll.config
+D:\DSOD\Fall 2014\Assignments\Assignment 3\Assignment3-2\weatherForecastService\weatherForecastService\bin\weatherForecastService.dll
+D:\DSOD\Fall 2014\Assignments\Assignment 3\Assignment3-2\weatherForecastService\weatherForecastService\bin\weatherForecastService.XmlSerializers.dll
+D:\DSOD\Fall 2014\Assignments\Assignment 3\Assignment3-2\weatherForecastService\weatherForecastService\bin\weatherForecastService.pdb
+D:\DSOD\Fall 2014\Assignments\Assignment 3\Assignment3-2\weatherForecastService\weatherForecastService\obj\Release\weatherForecastService.dll
+D:\DSOD\Fall 2014\Assignments\Assignment 3\Assignment3-2\weatherForecastService\weatherForecastService\obj\Release\weatherForecastService.pdb
+D:\DSOD\Fall 2014\Assignments\Assignment 3\Assignment3-2\weatherForecastService\weatherForecastService\obj\Release\weatherForecastService.XmlSerializers.dll

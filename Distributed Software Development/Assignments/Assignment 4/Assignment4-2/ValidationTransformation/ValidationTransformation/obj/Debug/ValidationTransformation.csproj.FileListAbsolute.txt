@@ -1,0 +1,6 @@
+D:\DSOD\Fall 2014\Assignments\Assignment 4\Assignment4-2\ValidationTransformation\ValidationTransformation\bin\ValidationTransformation.dll.config
+D:\DSOD\Fall 2014\Assignments\Assignment 4\Assignment4-2\ValidationTransformation\ValidationTransformation\bin\ValidationTransformation.dll
+D:\DSOD\Fall 2014\Assignments\Assignment 4\Assignment4-2\ValidationTransformation\ValidationTransformation\bin\ValidationTransformation.pdb
+D:\DSOD\Fall 2014\Assignments\Assignment 4\Assignment4-2\ValidationTransformation\ValidationTransformation\obj\Debug\ValidationTransformation.csprojResolveAssemblyReference.cache
+D:\DSOD\Fall 2014\Assignments\Assignment 4\Assignment4-2\ValidationTransformation\ValidationTransformation\obj\Debug\ValidationTransformation.dll
+D:\DSOD\Fall 2014\Assignments\Assignment 4\Assignment4-2\ValidationTransformation\ValidationTransformation\obj\Debug\ValidationTransformation.pdb

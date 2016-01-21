@@ -1,0 +1,12 @@
+D:\DSOD\Fall 2014\Project\Samples\Search_Service\Search_Service\obj\Debug\Search_Service.csprojResolveAssemblyReference.cache
+D:\DSOD\Fall 2014\Project\Samples\Search_Service\Search_Service\bin\Search_Service.dll.config
+D:\DSOD\Fall 2014\Project\Samples\Search_Service\Search_Service\bin\Search_Service.dll
+D:\DSOD\Fall 2014\Project\Samples\Search_Service\Search_Service\bin\Search_Service.pdb
+D:\DSOD\Fall 2014\Project\Samples\Search_Service\Search_Service\obj\Debug\Search_Service.dll
+D:\DSOD\Fall 2014\Project\Samples\Search_Service\Search_Service\obj\Debug\Search_Service.pdb
+D:\DSOD\Fall 2014\Assignments\Assignment 3\Assignment3-3-1\Search_Service\Search_Service\bin\Search_Service.dll.config
+D:\DSOD\Fall 2014\Assignments\Assignment 3\Assignment3-3-1\Search_Service\Search_Service\bin\Search_Service.dll
+D:\DSOD\Fall 2014\Assignments\Assignment 3\Assignment3-3-1\Search_Service\Search_Service\bin\Search_Service.pdb
+D:\DSOD\Fall 2014\Assignments\Assignment 3\Assignment3-3-1\Search_Service\Search_Service\obj\Debug\Search_Service.csprojResolveAssemblyReference.cache
+D:\DSOD\Fall 2014\Assignments\Assignment 3\Assignment3-3-1\Search_Service\Search_Service\obj\Debug\Search_Service.dll
+D:\DSOD\Fall 2014\Assignments\Assignment 3\Assignment3-3-1\Search_Service\Search_Service\obj\Debug\Search_Service.pdb

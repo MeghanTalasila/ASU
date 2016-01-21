@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="Hotel.xsl"?>
+<Hotels xmlns:xsi="http://tempuri.org/Hotels.xsd" xsi="Hotels..xsd">
+  <Hotel Stars="***">
+    <Name> Marrinot </Name>
+    <Contact>
+      <Phone> 480965000 </Phone>
+      <Email> holiday@holiday.com </Email>
+    </Contact>
+    <Address BusLines="12,103,245">
+      <Number> 699 </Number>
+      <Street> Mill Ave </Street>
+      <City> Temp  </City>
+      <Zip> 85281  </Zip>
+    </Address>
+  </Hotel>
+  <Hotel Stars="***">
+    <Name> Marrinot </Name>
+    <Contact>
+      <Phone> 480965000 </Phone>
+      <Email> holiday@holiday.com </Email>
+    </Contact>
+    <Address>
+      <Number> 699 </Number>
+      <Street> Mill Ave </Street>
+      <City> Temp  </City>
+      <Zip> 85281  </Zip>
+    </Address>
+    <Stars> *** </Stars>
+  </Hotel>
+  <Hotel Stars="***">
+    <Name> Marrinot </Name>
+    <Contact>
+      <Phone> 480965000 </Phone>
+      <Email> holiday@holiday.com </Email>
+    </Contact>
+    <Address>
+      <Number> 699 </Number>
+      <Street> Mill Ave </Street>
+      <City> Temp  </City>
+      <Zip> 85281  </Zip>
+    </Address>
+  </Hotel>
+  <Hotel Stars="***">
+    <Name> Marrinot </Name>
+    <Contact>
+      <Phone> 480965000 </Phone>
+      <Email> holiday@holiday.com </Email>
+    </Contact>
+    <Address>
+      <Number> 699 </Number>
+      <Street> Mill Ave </Street>
+      <City> Temp  </City>
+      <Zip> 85281  </Zip>
+    </Address>
+  </Hotel>
+  <Hotel Stars="***">
+    <Name> Marrinot </Name>
+    <Contact>
+      <Phone> 480965000 </Phone>
+      <Email> holiday@holiday.com </Email>
+    </Contact>
+    <Address>
+      <Number> 699 </Number>
+      <Street> Mill Ave </Street>
+      <City> Temp  </City>
+      <Zip> 85281  </Zip>
+    </Address>
+  </Hotel>
+  <Hotel Stars="***">
+    <Name> Marrinot </Name>
+    <Contact>
+      <Phone> 480965000 </Phone>
+      <Email> holiday@holiday.com </Email>
+    </Contact>
+    <Address>
+      <Number> 699 </Number>
+      <Street> Mill Ave </Street>
+      <City> Temp  </City>
+      <Zip> 85281  </Zip>
+    </Address>
+  </Hotel>
+  <Hotel Stars="***">
+    <Name> Marrinot </Name>
+    <Contact>
+      <Phone> 480965000 </Phone>
+      <Email> holiday@holiday.com </Email>
+    </Contact>
+    <Address>
+      <Number> 699 </Number>
+      <Street> Mill Ave </Street>
+      <City> Temp  </City>
+      <Zip> 85281  </Zip>
+    </Address>
+  </Hotel>
+  <Hotel Stars="***">
+    <Name> Marrinot </Name>
+    <Contact>
+      <Phone> 480965000 </Phone>
+      <Email> holiday@holiday.com </Email>
+    </Contact>
+    <Address>
+      <Number> 699 </Number>
+      <Street> Mill Ave </Street>
+      <City> Temp  </City>
+      <Zip> 85281  </Zip>
+    </Address>
+  </Hotel>
+  <Hotel Stars="***">
+    <Name> Marrinot </Name>
+    <Contact>
+      <Phone> 480965000 </Phone>
+      <Email> holiday@holiday.com </Email>
+    </Contact>
+    <Address>
+      <Number> 699 </Number>
+      <Street> Mill Ave </Street>
+      <City> Temp  </City>
+      <Zip> 85281  </Zip>
+    </Address>
+  </Hotel>
+  <Hotel Stars="***">
+    <Name> Marrinot </Name>
+    <Contact>
+      <Phone> 480965000 </Phone>
+      <Email> holiday@holiday.com </Email>
+    </Contact>
+    <Address BusLines="12,103,245">
+      <Number> 699 </Number>
+      <Street> Mill Ave </Street>
+      <City> Temp  </City>
+      <Zip> 85281  </Zip>
+    </Address>
+  </Hotel>
+</Hotels>

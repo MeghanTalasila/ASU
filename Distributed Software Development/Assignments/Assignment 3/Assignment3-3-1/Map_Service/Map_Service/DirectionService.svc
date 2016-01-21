@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Map_Service.Service1" CodeBehind="DirectionService.svc.cs"%>

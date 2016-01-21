@@ -1,0 +1,5 @@
+D:\DSOD\Fall 2014\Project\WcfService1_Temperature\WcfService1_Temperature\bin\WcfService1_Temperature.dll.config
+D:\DSOD\Fall 2014\Project\WcfService1_Temperature\WcfService1_Temperature\bin\WcfService1_Temperature.dll
+D:\DSOD\Fall 2014\Project\WcfService1_Temperature\WcfService1_Temperature\bin\WcfService1_Temperature.pdb
+D:\DSOD\Fall 2014\Project\WcfService1_Temperature\WcfService1_Temperature\obj\Debug\WcfService1_Temperature.dll
+D:\DSOD\Fall 2014\Project\WcfService1_Temperature\WcfService1_Temperature\obj\Debug\WcfService1_Temperature.pdb

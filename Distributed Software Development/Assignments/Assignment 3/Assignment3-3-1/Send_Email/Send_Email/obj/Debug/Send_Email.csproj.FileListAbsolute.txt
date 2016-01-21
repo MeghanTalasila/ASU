@@ -1,0 +1,16 @@
+D:\DSOD\Fall 2014\Project\Samples\Send_Email\Send_Email\bin\Send_Email.dll.config
+D:\DSOD\Fall 2014\Project\Samples\Send_Email\Send_Email\bin\Send_Email.dll
+D:\DSOD\Fall 2014\Project\Samples\Send_Email\Send_Email\bin\Send_Email.pdb
+D:\DSOD\Fall 2014\Project\Samples\Send_Email\Send_Email\bin\SendGrid.SmtpApi.dll
+D:\DSOD\Fall 2014\Project\Samples\Send_Email\Send_Email\bin\SendGridMail.dll
+D:\DSOD\Fall 2014\Project\Samples\Send_Email\Send_Email\obj\Debug\Send_Email.dll
+D:\DSOD\Fall 2014\Project\Samples\Send_Email\Send_Email\obj\Debug\Send_Email.pdb
+D:\DSOD\Fall 2014\Project\Samples\Send_Email\Send_Email\obj\Debug\Send_Email.csprojResolveAssemblyReference.cache
+D:\DSOD\Fall 2014\Assignments\Assignment 3\Assignment3-3-1\Send_Email\Send_Email\bin\Send_Email.dll.config
+D:\DSOD\Fall 2014\Assignments\Assignment 3\Assignment3-3-1\Send_Email\Send_Email\bin\Send_Email.dll
+D:\DSOD\Fall 2014\Assignments\Assignment 3\Assignment3-3-1\Send_Email\Send_Email\bin\Send_Email.pdb
+D:\DSOD\Fall 2014\Assignments\Assignment 3\Assignment3-3-1\Send_Email\Send_Email\bin\SendGrid.SmtpApi.dll
+D:\DSOD\Fall 2014\Assignments\Assignment 3\Assignment3-3-1\Send_Email\Send_Email\bin\SendGridMail.dll
+D:\DSOD\Fall 2014\Assignments\Assignment 3\Assignment3-3-1\Send_Email\Send_Email\obj\Debug\Send_Email.csprojResolveAssemblyReference.cache
+D:\DSOD\Fall 2014\Assignments\Assignment 3\Assignment3-3-1\Send_Email\Send_Email\obj\Debug\Send_Email.dll
+D:\DSOD\Fall 2014\Assignments\Assignment 3\Assignment3-3-1\Send_Email\Send_Email\obj\Debug\Send_Email.pdb

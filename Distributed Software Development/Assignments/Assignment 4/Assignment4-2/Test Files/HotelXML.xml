@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Hotels xmlns:xsi="http://tempuri.org/Hotels.xsd" xsi="Hotels.xsd">
+  <Hotel Stars="***">
+    <Name> Marrinot </Name>
+    <Contact>
+      <Phone> 480965000 </Phone>
+      <Email> holiday@holiday.com </Email>
+    </Contact>
+    <Address BusLines="12,103,245">
+      <Number> 699 </Number>
+      <Street> Mill Ave </Street>
+      <City> Temp  </City>
+      <Zip> 85281  </Zip>
+    </Address>
+  </Hotel>
+  <Hotel Stars="****">
+    <Name> Minerva Grand </Name>
+    <Contact>
+      <Phone> 91877668888 </Phone>
+      <Email> holiday@minerva.com </Email>
+    </Contact>
+    <Address>
+      <Number> 205 </Number>
+      <Street>Renuganta </Street>
+      <City> Tirupathi  </City>
+      <Zip> 517501  </Zip>
+    </Address>
+  </Hotel>
+  <Hotel Stars="**">
+    <Name> Winsar Park </Name>
+    <Contact>
+      <Phone> 917799770450 </Phone>
+      <Email> holiday@winsar.com </Email>
+    </Contact>
+    <Address>
+      <Number> 101 </Number>
+      <Street> KGH DOwn Road</Street>
+      <City> Vizag  </City>
+      <Zip> 530002  </Zip>
+    </Address>
+  </Hotel>
+  <Hotel Stars="***">
+    <Name> Green Park </Name>
+    <Contact>
+      <Phone> 918916615151 </Phone>
+      <Email> holiday@greenPark.com </Email>
+    </Contact>
+    <Address>
+      <Number> 12 </Number>
+      <Street>  waltair Main Road </Street>
+      <City> Vizag  </City>
+      <Zip> 5300002  </Zip>
+    </Address>
+  </Hotel>
+  <Hotel Stars="**">
+    <Name> NAva Bharat Hotels </Name>
+    <Contact>
+      <Phone> 919490639729 </Phone>
+      <Email> holiday@Nava Bharat.com </Email>
+    </Contact>
+    <Address BusLines="15">
+      <Number> 4 </Number>
+      <Street> Nava Bharat Nagar </Street>
+      <City> Guntur  </City>
+      <Zip> 522006  </Zip>
+    </Address>
+  </Hotel>
+  <Hotel Stars="*****">
+    <Name> Dolphin </Name>
+    <Contact>
+      <Phone> 918916622444 </Phone>
+      <Email> holiday@dolphin.com </Email>
+    </Contact>
+    <Address>
+      <Number> 75 </Number>
+      <Street> Dhaba Gardens </Street>
+      <City> Vizag  </City>
+      <Zip> 530020  </Zip>
+    </Address>
+  </Hotel>
+  <Hotel Stars="**">
+    <Name> Akshaya Hotels </Name>
+    <Contact>
+      <Phone> 9177892359 </Phone>
+      <Email> holiday@akshaya.com </Email>
+    </Contact>
+    <Address>
+      <Number> 3 </Number>
+      <Street> Station Road </Street>
+      <City> Vizag  </City>
+      <Zip> 530016  </Zip>
+    </Address>
+  </Hotel>
+  <Hotel Stars="*">
+    <Name> Supreme </Name>
+    <Contact>
+      <Phone> 918912782472 </Phone>
+      <Email> holiday@supreme.com </Email>
+    </Contact>
+    <Address BusLines="3,22">
+      <Number> 8 </Number>
+      <Street> Beach Road </Street>
+      <City> Vizag  </City>
+      <Zip> 530002  </Zip>
+    </Address>
+  </Hotel>
+  <Hotel Stars="****">
+    <Name> Fortune INN </Name>
+    <Contact>
+      <Phone> 919348666299 </Phone>
+      <Email> holiday@fortuneINN.com </Email>
+    </Contact>
+    <Address>
+      <Number> 35 </Number>
+      <Street> Dwaraka Nagar </Street>
+      <City> Vizag  </City>
+      <Zip> 530016  </Zip>
+    </Address>
+  </Hotel>
+  <Hotel Stars="***">
+    <Name> Royal Fort </Name>
+    <Contact>
+      <Phone> 918916622888 </Phone>
+      <Email> holiday@royal.com </Email>
+    </Contact>
+    <Address BusLines="56,90">
+      <Number> 12 </Number>
+      <Street> Ram Nagar Road </Street>
+      <City> Vizag  </City>
+      <Zip> 530002  </Zip>
+    </Address>
+  </Hotel>
+</Hotels>
