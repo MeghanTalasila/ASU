@@ -1,0 +1,18 @@
+package edu.asu.diging.tutorial.spring.service;
+
+import java.util.Random;
+
+import org.springframework.stereotype.Service;
+
+import edu.asu.diging.tutorial.spring.domain.Mood;
+
+@Service
+public class MoodService implements MoodServiceInterface{
+
+	public Mood getCurrentMood(){
+		String[] moods = {"happy", "sad", "bored"};
+		Random random = new Random();
+		int index = random.nextInt(moods.length);
+		return new Mood(moods[index]);
+	}
+}

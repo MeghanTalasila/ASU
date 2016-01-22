@@ -1,0 +1,9 @@
+package edu.asu.diging.tutorial.spring.service;
+
+@Service
+public class MoodService {
+
+	public Mood getCurrentMood(){
+		return new Mood("happy");
+	}
+}

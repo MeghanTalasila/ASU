@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+C:\Users\Madhu\Documents\GitHub\ASU-Course-Work\Computational Humanities\Tutorial\Tutorial 1 - Spring\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1755386743.index
+892624037.index
+3965906863.index
+3859735006.index
+2832514334.index
+3025795097.index

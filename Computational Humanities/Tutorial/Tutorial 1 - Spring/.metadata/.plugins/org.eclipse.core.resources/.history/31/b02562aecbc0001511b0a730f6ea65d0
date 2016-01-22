@@ -1,0 +1,24 @@
+package edu.asu.diging.tutorial.spring.domain;
+
+import javax.annotation.PostConstruct;
+import javax.inject.Inject;
+
+
+public class Mood {
+
+	private String feeling;
+
+	public String getFeeling() {
+		return feeling;
+	}
+
+	public void setFeeling(String feeling) {
+		this.feeling = feeling;
+	}
+
+	@PostConstruct
+	public void reset(){
+		this.feeling = feeling;
+	}
+		
+}

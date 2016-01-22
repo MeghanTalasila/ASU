@@ -1,0 +1,5 @@
+package edu.asu.diging.tutorial.spring.domain;
+
+public @interface PostConstruct {
+
+}
